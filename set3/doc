@@ -1,0 +1,45 @@
+1. Write a program that prints the numbers from 1 to 15. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”?
+
+2. Find the smallest number in an array
+Create a function that will display the smallest value in the array.
+
+3. Sort strings by Alphabetical Order
+input: 'hello'
+output: 'ehllo'
+
+4. Identify if a number is Odd or Even? Write a function that lets you know if a number is Even or Odd.
+
+5. Remove all Odd number(s) in an array and return a new array that contains Even numbers only
+input: [1, 2, 3, 4, 5, 6]
+output: [ 2, 4, 6 ]
+
+6. Create a function that will accept an array, check the data type of each element. The function will delete string elements and will return a the new array
+input: ['text', 3, 7, 'github', 13, 'dev']
+output: [ 3, 7, 13 ]
+
+7. Create a function that will accept an array and do the following:
+Get the lowest element
+Get the highest element
+Get the length of array
+Get the Average of all element
+Store these criteria in a new array
+
+8. Count the number of Words. Return how many words was given
+input: 'hello from kbpsystem!'
+output: 3
+
+9. Multiply all elements in an array by it's length
+input: [4,1,1]
+output: [12, 3, 3]
+
+10. Create a function that will check if str1 ends with the characters in str2
+Rules:
+Take two strings as argument
+Determine if second string matches ending of the first string
+Return boolean value
+input: "samurai", "zi"
+output: false
+
+11. Create a function that will repeat each string character two times
+input: 'exercise'
+output: 'eexxeerrcciissee'

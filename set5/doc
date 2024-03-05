@@ -1,0 +1,28 @@
+1. Write a JavaScript program to display the current day and time in the following format.  
+   Sample Output : Today is : Tuesday.
+   Current time is : 10 PM : 30 : 38
+
+2. Write a JavaScript program to compare two objects to determine if the first contains equivalent property values to the second one.
+
+3. Write a JavaScript program to copy a string to the clipboard.
+
+4. Write a JavaScript program to convert a comma-separated value (CSV) string to a 2D array.
+
+5. Write a JavaScript program to convert an array of objects to a comma-separated value (CSV) string that contains only the columns specified.
+
+6. Write a JavaScript program to target a given value in a nested JSON object based on the given key.
+
+7. Write a JavaScript program to convert a specified number into an array of digits.
+
+8. Write a JavaScript program to run a function in a separate thread using a Web Worker. This allows long running functions to not block the UI.
+
+9. Write a JavaScript program to convert an asynchronous function to return a promise.
+
+10. Write a JavaScript program to calculate the factorial of a number.  
+    In mathematics, the factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. For example, 5! = 5 x 4 x 3 x 2 x 1 = 120
+
+11. Write a JavaScript program to find the greatest common divisor (GCD) of two positive numbers using recursion.
+
+12. Write a JavaScript program to get integers in the range (x, y) using recursion.  
+    Example : range(2, 9)
+    Expected Output : [3, 4, 5, 6, 7, 8]

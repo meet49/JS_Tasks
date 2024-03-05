@@ -1,0 +1,33 @@
+1. Create a function: input date and convert it to an object
+    eg. date = new Date() = '2021-12-22T11:07:03.123Z'
+    o/p. { year: 2021, month: 12, date: 22, hour: 11, minute: 07, second: 03, ms: 123 }
+
+
+2. Create a function to Capitalize Each word
+    eg. hello world / hello-World / hello-world / Hello-world / Hello_World
+    o/p. Hello World
+
+3. Do as below instruction:
+	var fruites= ["apple", "banana", "orange", "grapes", "watermelon", "pineapple"]
+	
+=> a. Find 'grapes' fruit index
+=> b. Remove first fruit from an array [without using array index]
+=> c. Add "kiwi" to the fruites array at 2rd position.
+=> d. remove "grapes" and "watermelon" at once
+=> e. Add "apple" at the 1st position [without using array index]
+
+4. Create a function which returns n length array [do not use loops]
+	eg. input: 5
+		output: [0,1,2,3,4]
+
+5. create a function which takes an object as params and returs a string with those data
+
+=> a. Array with below data
+	name = John
+	age = 24
+	education = Engineering in IT
+	institute = SCET
+	passing_year = 2021
+
+=> b. The function which returns a string as below
+	Hello, My name is <John>. I'm <24> years old. I've completed <Engineering in IT> from <SCET> in year <2021>.

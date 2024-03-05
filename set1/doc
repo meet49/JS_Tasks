@@ -1,0 +1,24 @@
+
+1. Create a function to convert number to million, billion format.
+    for eg. 1000 = 1K, 1000000 = 1M, 1234 = 1.2K 
+2. Sort an array of numbers, (without using in-built function).
+3. following pattern, using a nested for loop
+*  
+* *  
+* * *  
+* * * *  
+* * * * *
+4. Remove duplicate values from an array
+    A = [1, 5, 11, 'A', 'B', 'a', 'b', 3, 5, 7, 'z', 'd', 'b']
+5. input date and convert it to an object
+    eg. date = new Date() = '2021-12-22T11:07:03.123Z'
+    o/p. { year: 2021, month: 12, date: 22, hour: 11, minute: 07, second: 03, ms: 123 } 
+6. Capitalize Each word
+    eg. hello world / hello-World / hello-world / Hello-world / Hello_World
+    o/p. Hello World
+7. input string and validate it, if it is a valid URL or not [using RegEx]
+8. input number_of_rows and number_of_columns and generate table
+9. draw rectangle and circle on canvas
+10. Create a student's data array, display it. change student data on button click and it'll be show updated data
+11. Convert JSON to CSV (comma separated) format and vice versa.
+12. show images grid (remote images) with download button, on button click, it should download the image.
